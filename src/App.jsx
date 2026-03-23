@@ -1,4 +1,5 @@
 import Greeting from "./Greeting";
+import StateExample from "./StateExample";
 
 function App() {
   return (
@@ -6,6 +7,7 @@ function App() {
       <h1>Welcome!</h1>
       <Greeting name="Orkhan" />
       <Greeting name="Alice" />
+      <StateExample />
     </div>
   );
 }
