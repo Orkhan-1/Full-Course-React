@@ -16,17 +16,15 @@ ELEMENT
 ATTRIBUTE
 onclick="handleClick()"
 
-Example:
-<button class="btn" disabled onclick="handleClick()">
-Click
-</button>
-
 button → element
 onclick → attribute
 "handleClick()" → value
 
 ==================================================
 PART 1 — HTML EVENT HANDLING
+
+An HTML event is a mechanism that allows a web page to respond to user interactions 
+or browser actions
 
 <button onclick="handleClick()">
 
