@@ -1,10 +1,10 @@
+import ContextTutorial from "./ContextTutorial";
 import RouterTutorial from "./RouterTutorial";
 
 function App() {
   return (
     <div>
-      <h1>Welcome!</h1>
-      <RouterTutorial />
+      <ContextTutorial />
     </div>
   );
 }
