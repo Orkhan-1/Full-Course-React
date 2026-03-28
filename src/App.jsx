@@ -1,10 +1,10 @@
-import ListsAndKeys from "./ListsAndKeys";
+import RouterTutorial from "./RouterTutorial";
 
 function App() {
   return (
     <div>
       <h1>Welcome!</h1>
-      <ListsAndKeys />
+      <RouterTutorial />
     </div>
   );
 }
