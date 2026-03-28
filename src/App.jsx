@@ -1,10 +1,9 @@
-import ContextTutorial from "./ContextTutorial";
-import RouterTutorial from "./RouterTutorial";
+import FetchTutorial from "./FetchTutorial";
 
 function App() {
   return (
     <div>
-      <ContextTutorial />
+      <FetchTutorial />
     </div>
   );
 }
