@@ -1,9 +1,10 @@
+import CustomHookTutorial from "./CustomHookTutorial";
 import FetchTutorial from "./FetchTutorial";
 
 function App() {
   return (
     <div>
-      <FetchTutorial />
+      <CustomHookTutorial />
     </div>
   );
 }
